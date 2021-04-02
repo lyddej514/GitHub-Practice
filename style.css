@@ -1,0 +1,11 @@
+body {
+    background-color: aqua;
+}
+
+.Firstparagraph {
+    border-style: dashed;
+}
+
+#Secondparagraph {
+    border-style: groove;
+}
